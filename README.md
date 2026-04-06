@@ -51,3 +51,17 @@ kibana
 prompmetus
 
 kinesis
+
+AWS
+-sqs
+-lambda
+-cognito
+-api gateway
+-jwt
+-cloudwatch
+
+Design Patterns
+
+LLD
+
+HLD
